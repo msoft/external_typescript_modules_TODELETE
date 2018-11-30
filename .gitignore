@@ -1,0 +1,10 @@
+**/node_modules/**
+**/public/**
+**/build/**
+!typescript_es6/public/index.html
+!typescript_namespace/public/index.html
+!typescript_merging_namespace/public/index.html
+!typescript_triple-slash/example/public/index.html
+!webpack_es6/public/index.html
+!webpack_es6_namespace/public/index.html
+
