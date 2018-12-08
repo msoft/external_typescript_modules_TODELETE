@@ -3,8 +3,10 @@
 
 //import ImportedModules;
 // import * as moduleInFile from './dependencies'; 
+/// <reference path="dependencies/person.d.ts" />
 
 
+import * as debug from 'debug';
 
 class Startup {
 
@@ -32,6 +34,14 @@ class Startup {
                 "$5,300"
             ]
         ]
+ 
+    debug.load();
+    //mocha.addFile('er');
+
+   var player = test.CreatePlayer('Tell', '"Albert');
+    // var person = new test.Person('Tell', '"Albert');
+    // person.showName();
+
 
         $(document).ready( function () {
             var datatable = $('#table_id').DataTable({

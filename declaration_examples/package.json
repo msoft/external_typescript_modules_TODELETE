@@ -5,7 +5,7 @@
   "main": "webpack.config.js",
   "scripts": {
     "build": "webpack ./webpack.config.js --mode development",
-    "buildTs": "tsc",
+    "buildTs": "tsc --traceResolution",
     "start": "webpack-dev-server ./webpack.config.js --content-base ./public --mode development"
   },
   "keywords": [],

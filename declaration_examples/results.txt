@@ -1,0 +1,345 @@
+
+> helloworld@1.0.0 buildTs /home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples
+> tsc --traceResolution
+
+======== Resolving module 'externalDependency' from '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/index.ts'. ========
+Module resolution kind is not specified, using 'Classic'.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/externalDependency.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/externalDependency.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/externalDependency.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/externalDependency.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/externalDependency.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/externalDependency.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/externalDependency.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/externalDependency.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/externalDependency.d.ts' does not exist.
+File '/home/mat/Documents/externalDependency.ts' does not exist.
+File '/home/mat/Documents/externalDependency.tsx' does not exist.
+File '/home/mat/Documents/externalDependency.d.ts' does not exist.
+File '/home/mat/externalDependency.ts' does not exist.
+File '/home/mat/externalDependency.tsx' does not exist.
+File '/home/mat/externalDependency.d.ts' does not exist.
+File '/home/externalDependency.ts' does not exist.
+File '/home/externalDependency.tsx' does not exist.
+File '/home/externalDependency.d.ts' does not exist.
+File '/externalDependency.ts' does not exist.
+File '/externalDependency.tsx' does not exist.
+File '/externalDependency.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/externalDependency.d.ts' does not exist.
+Directory '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/Documents/ExternalModuleImport/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/Documents/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/node_modules' does not exist, skipping all lookups in it.
+Directory '/node_modules' does not exist, skipping all lookups in it.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/externalDependency.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/externalDependency.jsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/externalDependency.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/externalDependency.jsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/externalDependency.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/externalDependency.jsx' does not exist.
+File '/home/mat/Documents/externalDependency.js' does not exist.
+File '/home/mat/Documents/externalDependency.jsx' does not exist.
+File '/home/mat/externalDependency.js' does not exist.
+File '/home/mat/externalDependency.jsx' does not exist.
+File '/home/externalDependency.js' does not exist.
+File '/home/externalDependency.jsx' does not exist.
+File '/externalDependency.js' does not exist.
+File '/externalDependency.jsx' does not exist.
+======== Module name 'externalDependency' was not resolved. ========
+======== Resolving module 'debug' from '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/index.ts'. ========
+Module resolution kind is not specified, using 'Classic'.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/debug.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/debug.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/debug.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/debug.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/debug.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/debug.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/debug.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/debug.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/debug.d.ts' does not exist.
+File '/home/mat/Documents/debug.ts' does not exist.
+File '/home/mat/Documents/debug.tsx' does not exist.
+File '/home/mat/Documents/debug.d.ts' does not exist.
+File '/home/mat/debug.ts' does not exist.
+File '/home/mat/debug.tsx' does not exist.
+File '/home/mat/debug.d.ts' does not exist.
+File '/home/debug.ts' does not exist.
+File '/home/debug.tsx' does not exist.
+File '/home/debug.d.ts' does not exist.
+File '/debug.ts' does not exist.
+File '/debug.tsx' does not exist.
+File '/debug.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/debug.d.ts' does not exist.
+Directory '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/Documents/ExternalModuleImport/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/Documents/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/node_modules' does not exist, skipping all lookups in it.
+Directory '/node_modules' does not exist, skipping all lookups in it.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/debug.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/debug.jsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/debug.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/debug.jsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/debug.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/debug.jsx' does not exist.
+File '/home/mat/Documents/debug.js' does not exist.
+File '/home/mat/Documents/debug.jsx' does not exist.
+File '/home/mat/debug.js' does not exist.
+File '/home/mat/debug.jsx' does not exist.
+File '/home/debug.js' does not exist.
+File '/home/debug.jsx' does not exist.
+File '/debug.js' does not exist.
+File '/debug.jsx' does not exist.
+======== Module name 'debug' was not resolved. ========
+======== Resolving module 'jquery' from '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/index.ts'. ========
+Module resolution kind is not specified, using 'Classic'.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/jquery.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/jquery.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/jquery.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/jquery.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/jquery.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/jquery.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/jquery.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/jquery.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/jquery.d.ts' does not exist.
+File '/home/mat/Documents/jquery.ts' does not exist.
+File '/home/mat/Documents/jquery.tsx' does not exist.
+File '/home/mat/Documents/jquery.d.ts' does not exist.
+File '/home/mat/jquery.ts' does not exist.
+File '/home/mat/jquery.tsx' does not exist.
+File '/home/mat/jquery.d.ts' does not exist.
+File '/home/jquery.ts' does not exist.
+File '/home/jquery.tsx' does not exist.
+File '/home/jquery.d.ts' does not exist.
+File '/jquery.ts' does not exist.
+File '/jquery.tsx' does not exist.
+File '/jquery.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/jquery.d.ts' does not exist.
+Directory '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/Documents/ExternalModuleImport/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/Documents/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/node_modules' does not exist, skipping all lookups in it.
+Directory '/node_modules' does not exist, skipping all lookups in it.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/jquery.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/jquery.jsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/jquery.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/jquery.jsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/jquery.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/jquery.jsx' does not exist.
+File '/home/mat/Documents/jquery.js' does not exist.
+File '/home/mat/Documents/jquery.jsx' does not exist.
+File '/home/mat/jquery.js' does not exist.
+File '/home/mat/jquery.jsx' does not exist.
+File '/home/jquery.js' does not exist.
+File '/home/jquery.jsx' does not exist.
+File '/jquery.js' does not exist.
+File '/jquery.jsx' does not exist.
+======== Module name 'jquery' was not resolved. ========
+======== Resolving module 'jqueryz' from '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/index.ts'. ========
+Module resolution kind is not specified, using 'Classic'.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/jqueryz.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/jqueryz.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/jqueryz.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/jqueryz.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/jqueryz.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/jqueryz.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/jqueryz.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/jqueryz.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/jqueryz.d.ts' does not exist.
+File '/home/mat/Documents/jqueryz.ts' does not exist.
+File '/home/mat/Documents/jqueryz.tsx' does not exist.
+File '/home/mat/Documents/jqueryz.d.ts' does not exist.
+File '/home/mat/jqueryz.ts' does not exist.
+File '/home/mat/jqueryz.tsx' does not exist.
+File '/home/mat/jqueryz.d.ts' does not exist.
+File '/home/jqueryz.ts' does not exist.
+File '/home/jqueryz.tsx' does not exist.
+File '/home/jqueryz.d.ts' does not exist.
+File '/jqueryz.ts' does not exist.
+File '/jqueryz.tsx' does not exist.
+File '/jqueryz.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/jqueryz.d.ts' does not exist.
+Directory '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/Documents/ExternalModuleImport/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/Documents/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/node_modules' does not exist, skipping all lookups in it.
+Directory '/node_modules' does not exist, skipping all lookups in it.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/jqueryz.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/jqueryz.jsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/jqueryz.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/jqueryz.jsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/jqueryz.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/jqueryz.jsx' does not exist.
+File '/home/mat/Documents/jqueryz.js' does not exist.
+File '/home/mat/Documents/jqueryz.jsx' does not exist.
+File '/home/mat/jqueryz.js' does not exist.
+File '/home/mat/jqueryz.jsx' does not exist.
+File '/home/jqueryz.js' does not exist.
+File '/home/jqueryz.jsx' does not exist.
+File '/jqueryz.js' does not exist.
+File '/jqueryz.jsx' does not exist.
+======== Module name 'jqueryz' was not resolved. ========
+======== Resolving module 'path' from '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/webpack.config.js'. ========
+Module resolution kind is not specified, using 'Classic'.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/path.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/path.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/path.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/path.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/path.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/path.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/path.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/path.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/path.d.ts' does not exist.
+File '/home/mat/Documents/path.ts' does not exist.
+File '/home/mat/Documents/path.tsx' does not exist.
+File '/home/mat/Documents/path.d.ts' does not exist.
+File '/home/mat/path.ts' does not exist.
+File '/home/mat/path.tsx' does not exist.
+File '/home/mat/path.d.ts' does not exist.
+File '/home/path.ts' does not exist.
+File '/home/path.tsx' does not exist.
+File '/home/path.d.ts' does not exist.
+File '/path.ts' does not exist.
+File '/path.tsx' does not exist.
+File '/path.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/path.d.ts' does not exist.
+Directory '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/Documents/ExternalModuleImport/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/Documents/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/node_modules' does not exist, skipping all lookups in it.
+Directory '/node_modules' does not exist, skipping all lookups in it.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/path.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/path.jsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/path.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/path.jsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/path.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/path.jsx' does not exist.
+File '/home/mat/Documents/path.js' does not exist.
+File '/home/mat/Documents/path.jsx' does not exist.
+File '/home/mat/path.js' does not exist.
+File '/home/mat/path.jsx' does not exist.
+File '/home/path.js' does not exist.
+File '/home/path.jsx' does not exist.
+File '/path.js' does not exist.
+File '/path.jsx' does not exist.
+======== Module name 'path' was not resolved. ========
+======== Resolving type reference directive 'node', containing file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/__inferred type names__.ts', root directory '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types'. ========
+Resolving with primary search path '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types'.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' has 'main' field '' that references '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node'.
+Found 'package.json' at '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/package.json'. Package ID is '@types/node/.d.ts@9.4.7'.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts', result '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+======== Type reference directive 'node' was successfully resolved to '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts', primary: true. ========
+======== Resolving module 'events' from '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/inspector.d.ts'. ========
+Module resolution kind is not specified, using 'Classic'.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/events.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/events.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/events.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/events.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/events.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/events.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/events.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/events.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/events.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/events.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/events.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/events.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/events.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/events.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/events.d.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/events.ts' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/events.tsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/events.d.ts' does not exist.
+File '/home/mat/Documents/events.ts' does not exist.
+File '/home/mat/Documents/events.tsx' does not exist.
+File '/home/mat/Documents/events.d.ts' does not exist.
+File '/home/mat/events.ts' does not exist.
+File '/home/mat/events.tsx' does not exist.
+File '/home/mat/events.d.ts' does not exist.
+File '/home/events.ts' does not exist.
+File '/home/events.tsx' does not exist.
+File '/home/events.d.ts' does not exist.
+File '/events.ts' does not exist.
+File '/events.tsx' does not exist.
+File '/events.d.ts' does not exist.
+Directory '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/events.d.ts' does not exist.
+Directory '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/Documents/ExternalModuleImport/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/Documents/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/mat/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/node_modules' does not exist, skipping all lookups in it.
+Directory '/node_modules' does not exist, skipping all lookups in it.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/events.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/events.jsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/events.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/events.jsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/events.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/events.jsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/events.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/events.jsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/events.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/events.jsx' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/events.js' does not exist.
+File '/home/mat/Documents/ExternalModuleImport/events.jsx' does not exist.
+File '/home/mat/Documents/events.js' does not exist.
+File '/home/mat/Documents/events.jsx' does not exist.
+File '/home/mat/events.js' does not exist.
+File '/home/mat/events.jsx' does not exist.
+File '/home/events.js' does not exist.
+File '/home/events.jsx' does not exist.
+File '/events.js' does not exist.
+File '/events.jsx' does not exist.
+======== Module name 'events' was not resolved. ========
+Module 'events' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'net' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'stream' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'url' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'child_process' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'net' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'stream' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'tls' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'http' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'url' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'stream' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'readline' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'stream' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'stream' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'net' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'querystring' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'stream' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'dns' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'dns' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'stream' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'url' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'crypto' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'dns' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'net' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'stream' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'net' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'fs' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'net' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'stream' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'tls' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'url' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'http' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
+Module 'http' was resolved as locally declared ambient module in file '/home/mat/Documents/ExternalModuleImport/external_typescript_modules/declaration_examples/node_modules/@types/node/index.d.ts'.
